@@ -29,7 +29,7 @@ AllowShortIfStatementsOnASingleLine: WithoutElse
 AlwaysBreakAfterReturnType: None
 
 BinPackArguments: true
-BinPackParameters: OnePerLine
+BinPackParameters: false
 BraceWrapping:
   AfterControlStatement: Never
   AfterEnum: false
@@ -38,4 +38,3 @@ BraceWrapping:
   BeforeElse: false
   BeforeWhile: false
   IndentBraces: false
-
